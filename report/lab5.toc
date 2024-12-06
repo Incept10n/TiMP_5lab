@@ -1,0 +1,12 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{{\cyrillictext \CYRS \cyro \cyrd \cyre \cyrr \cyrzh \cyra \cyrn \cyri \cyre }}{2}{section*.1}%
+\contentsline {section}{\numberline {1}Техническое задание}{3}{section.1}%
+\contentsline {section}{\numberline {2}Описание шифров}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}XOR}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Шифр Виженера (для русских букв)}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Реализация и пример работы}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}XOR шифрование/дешифрование}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Шифр Виженера}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Пример работы программы}{6}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Заключение}{9}{section.4}%
+\contentsline {section}{\numberline {5}Приложение}{10}{section.5}%
